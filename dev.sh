@@ -1,0 +1,1 @@
+gin --path src run ./src/serve.go
